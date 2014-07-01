@@ -1,0 +1,9 @@
+Building HardCider
+
+See doc/readme-qt.rst for instructions on building HardCider QT,
+the intended-for-end-users, nice-graphical-interface, reference
+implementation of HardCider.
+
+See doc/build-*.txt for instructions on building hardciderd,
+the intended-for-services, no-graphical-interface, reference
+implementation of HardCider.
